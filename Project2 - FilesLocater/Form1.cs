@@ -16,5 +16,11 @@ namespace Project2___FilesLocater
         {
             InitializeComponent();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
